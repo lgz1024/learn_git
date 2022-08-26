@@ -1,0 +1,2 @@
+账号：CMCC-f5gx-5G 密码：SfFwhhZ9
+1、mysql字段默认自增（需为key），插入0 | null | default
