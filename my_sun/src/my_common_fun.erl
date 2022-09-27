@@ -235,8 +235,6 @@ dp_max(A, _, N) -> N - N rem A.
 dp_max(A, N) -> N - N rem A.
 
 
-write() ->
-  io:write("abc~n"),
 
 
 

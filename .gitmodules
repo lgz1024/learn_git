@@ -1,0 +1,3 @@
+[submodule "my_sun/sub_test"]
+	path = my_sun/sub_test
+	url = https://github.com/lgz1024/SubModule
